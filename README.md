@@ -6,28 +6,20 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 DESCRIPTION DE LA FORMATION
 
-## Instructions
+Grâce à cette formation d'Alison PATOU, la visualisation de données avec le langage Python vous sera plus familier. Vous ferez un rapide rappel de manipulation de données, puis vous utiliserez les différentes fonctions des 3 principales librairies de visualisation de données : Seaborn, MatplotLib et Plotly.
 
-Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
-
-## Branches
-
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
 
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - l'IDE Jupyer Notebook
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+3. Pour utiliser un fichier .ipynb vous n'aurez qu'à l'ouvrir via l'environnement Jupyter
 
 
 ### Formateur
 
-**Nom du formateur** 
+**Alison PATOU** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
