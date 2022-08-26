@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `Python : La visualisation des données`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Nom final de la formation][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Python : La visualisation des données][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 DESCRIPTION DE LA FORMATION
 
