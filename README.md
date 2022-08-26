@@ -20,12 +20,3 @@ Grâce à cette formation d'Alison PATOU, la visualisation de données avec le l
 ### Formateur
 
 **Alison PATOU** 
-
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://
-
-[1]: # (End of FR-Instruction ###############################################################################################)
