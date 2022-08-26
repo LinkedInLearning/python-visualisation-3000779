@@ -20,3 +20,9 @@ Grâce à cette formation d'Alison PATOU, la visualisation de données avec le l
 ### Formateur
 
 **Alison PATOU** 
+
+
+
+
+
+[lil-course-url]:www.linkedin.com
