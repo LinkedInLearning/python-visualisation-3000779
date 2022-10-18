@@ -2,11 +2,9 @@
 
 Ce dossier Repository est lié au cours `Python : La visualisation des données`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Python : La visualisation des données][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Python : La visualisation des données][lil-thumbnail-url]
 
-DESCRIPTION DE LA FORMATION
-
-Grâce à cette formation d'Alison PATOU, la visualisation de données avec le langage Python vous sera plus familier. Vous ferez un rapide rappel de manipulation de données, puis vous utiliserez les différentes fonctions des 3 principales librairies de visualisation de données : Seaborn, MatplotLib et Plotly.
+Dans cette formation qui s'adresse à tous ceux qui analysent les données, Alison Patou vous fera découvrir comment, grâce au langage Python et certaines de ses librairies, comme Seaborn, Matplotlib ou encore Plotly. Tout d'abord, vous reviendrez sur les notions de base de l'analyse de données ainsi que les prérequis. Puis, vous verrez comment analyser et présenter vos données, notamment à l'aide de graphiques que vous pouvez également personnaliser, sans parler des représentations plus sophistiquées comme la 3D, les cartes de chaleur, etc. Au terme de cette formation, vous aurez toutes les cartes en main pour des analyses de données pertinentes et dynamiques.
 
 
 ## Installation
@@ -14,7 +12,7 @@ Grâce à cette formation d'Alison PATOU, la visualisation de données avec le l
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - l'IDE Jupyer Notebook
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. Pour utiliser un fichier .ipynb vous n'aurez qu'à l'ouvrir via l'environnement Jupyter
+3. Pour utiliser un fichier .ipynb vous n'aurez qu'à l'ouvrir via l'environnement Jupyter.
 
 
 ### Formateur
