@@ -19,10 +19,13 @@ Grâce à cette formation d'Alison PATOU, la visualisation de données avec le l
 
 ### Formateur
 
-**Alison PATOU** 
+**Alison Patou** 
+
+ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 
 
-
-
-[lil-course-url]:www.linkedin.com
+[0]: # (Replace these placeholder URLs with actual course URLs)
+[lil-course-url]: https://www.linkedin.com/learning/python-la-visualisation-des-donnees
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQEgI3GSe9pDNg/learning-public-crop_675_1200/0/1666096377430?e=1666702800&v=beta&t=PFQ2M6N2MI2cip5R3xNH3nejFhiMLtpywmblzewbZ2Q
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/alison-patou
